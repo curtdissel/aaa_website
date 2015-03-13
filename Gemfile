@@ -66,6 +66,7 @@ end
 
 group :production do
   gem 'pg'
+  #heroku stuff
   #maybe heroku needs this to work with rails 4
 #  gem 'rails_12factor'
 end
