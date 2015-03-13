@@ -23,7 +23,7 @@ $(function(){
 		$(this).hide('normal');
 	});
 	$("#hide_comments").click(function(){
-		$("#comments").slideUp();
+		$("#comments").slideUp(); 
 		$("#show_comments").show('normal');
 	});
 })
